@@ -16,7 +16,9 @@ public class Sample extends Base{
 		sendkeys(l.getTxtUsername(),"arthi");
 		sendkeys(l.getTxtPassword(),"1234");
 		click(l.getBtnLogin());
-		
+		System.out.println("done");
+		System.out.println("done");
+
 	
 			}
 	
